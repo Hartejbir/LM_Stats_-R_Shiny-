@@ -1,0 +1,65 @@
+
+#sbl {
+  margin-top: 1%;  
+  margin-left: 0.5%;
+  margin-right: 4%;
+}
+
+#sidebar {
+  box-shadow: 10px 10px 5px grey;
+}
+
+#text {
+  margin-top: 5px;
+  margin-left: 5px;
+  height: 90%;
+}
+
+#Reg {
+  border-radius: 5px;
+  margin-bottom: 1%;
+  height: 90%;
+}
+
+#Dist {
+  border-radius: 5px;
+  margin-top: 2.5%;
+  margin-bottom: 3.5%;
+  height: 90%;
+}
+
+body {
+  background-color: #FFFFFF;
+}
+
+#box {
+  background-color: #e5e6e8;
+  border-width: 2px; 
+  border-radius: 5px;
+  border-color: #A9A9A9;
+  margin-top: 5%;
+}
+
+h5 {
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+p {
+  margin-top: 5px;
+  margin-left: 5px;
+}
+
+#dataTable {
+  margin-top: 1%;
+  margin-left: 0.5%;
+  margin-right: 4%;
+}
+
+#summary {
+  margin-top: 1%;
+  margin-left: 0.5%;
+  margin-right: 4%;
+  width: 500px;
+}
+
